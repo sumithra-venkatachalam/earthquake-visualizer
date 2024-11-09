@@ -1,0 +1,13 @@
+.AppTitle {
+  margin: 0px;
+}
+.FilterContainer {
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.MapContainer {
+  height: 80vh;
+}
